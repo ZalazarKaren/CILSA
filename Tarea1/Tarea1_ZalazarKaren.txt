@@ -1,0 +1,3 @@
+Tarea 1
+Correcciones: Botón enviar y Agregación de Botones de Estilos en el Formulario
+Principal, reestructuración con index.html
